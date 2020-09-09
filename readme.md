@@ -13,7 +13,7 @@ wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/pplv
 ### 2. 利用Github创建每周开关机一次任务
 
 ##### 2.1. 项目地址
-> https://github.com/bigfangfang/IBMVPS  
+>https://github.com/pplv123/IBM  
 
 在项目里点击Fork，这样就复制程序到自己的Github里面
 
