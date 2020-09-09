@@ -6,12 +6,6 @@
 wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/pplv123/IBMVPS/master/install.sh && chmod +x install.sh  && ./install.sh
 
 ```
-
-> 注意事项：
->> 1. 记住填写的 应用名称 建议写：bigfang 
->> 2. 内存大小选择256m
->> 3. 一键安装完成后 保存生成VMESS链接
-
 ##### 1.3. 客户端配置
 
 导入vmess链接
