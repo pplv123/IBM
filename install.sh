@@ -106,7 +106,7 @@ install(){
     {
       "v": "2",
       "ps": "ibmvps",
-      "add": "bigfang.us-south.cf.appdomain.cloud",
+      "add": "ahtv.us-south.cf.appdomain.cloud",
       "port": "443",
       "id": "${UUID}",
       "aid": "4",
